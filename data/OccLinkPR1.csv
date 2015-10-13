@@ -1,0 +1,22 @@
+LinkId,InstitutionId,OccNum,Description_SP,URL,Priority,Status
+29,3,11,Administración y Servicios Turísticos,http://www.upn.edu.pe/facultades/negocios/administracion-servicios-turisticos,3,<class 'requests.exceptions.ConnectionError'>
+42,3,21,Comunicación Audiovisual en Medios Digitales,http://www.upn.edu.pe/facultades/comunicaciones/comunicacion-audiovisual-medios-digitales,3,<class 'requests.exceptions.ConnectionError'>
+57,3,29,Arquitectura y Gerencia de Proyectos,http://www.upn.edu.pe/facultades/arquitectura-diseno/arquitectura-gerencia-proyectos,3,<class 'requests.exceptions.ConnectionError'>
+116,3,86,Gastronomía y Gestión de Restaurantes,http://www.upn.edu.pe/facultades/negocios/gastronomia-gestion-restaurantes,1,<class 'requests.exceptions.ConnectionError'>
+162,3,143,Comunicación Audiovisual en Medios Digitales,http://www.upn.edu.pe/facultades/comunicaciones/comunicacion-audiovisual-medios-digitales,1,<class 'requests.exceptions.ConnectionError'>
+223,3,196,Administración y Negocios Internacionales,http://www.upn.edu.pe/facultades/negocios/economia-negocios-internacionales,2,<class 'requests.exceptions.ConnectionError'>
+239,3,214,Ingeniería Ambiental,http://www.upn.edu.pe/facultades/ingenieria/ingenieria-ambiental,2,<class 'requests.exceptions.ConnectionError'>
+268,3,240,Ingeniería Electrónica,http://www.upn.edu.pe/facultades/ingenieria/ingenieria-electronica,3,<class 'requests.exceptions.ConnectionError'>
+272,3,241,Administración y Gestión Comercial,http://www.upn.edu.pe/facultades/negocios/administracion-gestion-comercial,4,<class 'requests.exceptions.ConnectionError'>
+278,3,242,Economía y NNII,http://www.upn.edu.pe/facultades/negocios/economia-negocios-internacionales,5,<class 'requests.exceptions.ConnectionError'>
+313,3,285,Ingeniería Mecatrónica,http://www.upn.edu.pe/facultades/ingenieria/ingenieria-mecatronica,1,<class 'requests.exceptions.ConnectionError'>
+376,3,345,Comunicación y Publicidad,http://www.upn.edu.pe/facultades/comunicaciones/comunicacion-publicidad,2,<class 'requests.exceptions.ConnectionError'>
+415,3,368,Comunicación y Periodismo,http://www.upn.edu.pe/facultades/comunicaciones/comunicacion-periodismo,1,<class 'requests.exceptions.ConnectionError'>
+435,3,379,Administración y Servicios Turísticos,http://www.upn.edu.pe/facultades/negocios/administracion-servicios-turisticos,2,<class 'requests.exceptions.ConnectionError'>
+471,3,423,Administración y Servicios Turísticos,http://www.upn.edu.pe/facultades/negocios/administracion-servicios-turisticos,1,<class 'requests.exceptions.ConnectionError'>
+490,3,448,Comunicación Corporativa,http://www.upn.edu.pe/facultades/comunicaciones/comunicacion-corporativa,3,<class 'requests.exceptions.ConnectionError'>
+518,3,519,Ingeniería Agroindustrial,http://www.upn.edu.pe/facultades/ingenieria/ingenieria-agroindustrial,2,<class 'requests.exceptions.ConnectionError'>
+527,3,529,Ingeniería Industrial,http://www.upn.edu.pe/facultades/ingenieria/ingenieria-industrial,2,<class 'requests.exceptions.ConnectionError'>
+560,3,555,Administración y Marketing,http://www.upn.edu.pe/facultades/negocios/administracion-marketing,3,<class 'requests.exceptions.ConnectionError'>
+592,3,590,Enfermería,http://www.upn.edu.pe/facultades/ciencias-salud/enfermeria,1,<class 'requests.exceptions.ConnectionError'>
+637,3,647,Enfermería,http://www.upn.edu.pe/facultades/ciencias-salud/enfermeria,1,<class 'requests.exceptions.ConnectionError'>
