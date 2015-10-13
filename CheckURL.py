@@ -43,5 +43,7 @@ for n in range(1, len(matrix)):
 resultFile = open(filename +'_out.csv', 'wb')
 
 wr = csv.writer(resultFile, dialect='excel')
+
 #wr.writerows(lines)
+
 wr.writerows(matrix)
